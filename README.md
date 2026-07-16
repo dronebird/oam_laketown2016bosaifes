@@ -5,4 +5,4 @@
 
 
 
-http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{X}/{y}.jpg
+http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{X}/{y}.png
