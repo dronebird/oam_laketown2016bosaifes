@@ -5,6 +5,6 @@
 
 
 
-http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{X}/{y}.png
+http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{x}/{y}.png
 
-```http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{X}/{y}.png```
+```http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{x}/{y}.png```
